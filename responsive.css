@@ -117,17 +117,17 @@
     .half-width h1{
          font-size: 14px;
          width: 170px;
-         margin-left: 50px;
+         margin-left: 10px;
     }
     .half-width h3{
         font-size: 11px;
         width: 170px;
-        margin-left: 50px;
+        margin-left: 10px;
    }
     .half-width p{
         font-size: 7px;
         width: 170px;
-        margin-left: 50px;
+        margin-left: 10px;
     }
     .link-button{
     padding: 2px 12px;
@@ -136,11 +136,12 @@
     font-size: 7px
     }
     a.btn{
-        margin-left: 50px;
+        margin-left: 10px;
 
     }
     .half-width img{
         width: 100%;
+        margin-right: 20px;
        
     }
     
